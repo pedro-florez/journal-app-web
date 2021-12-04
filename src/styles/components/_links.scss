@@ -1,0 +1,10 @@
+
+/* Style de los Links
+-------------------------------------------------- */
+.link {
+    color: $dark-grey;
+    
+    &:hover {
+        text-decoration: none;
+    }
+}

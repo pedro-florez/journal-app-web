@@ -1,0 +1,14 @@
+
+/* Importar Settins Globales SCSS
+-------------------------------------------------- */
+@import './base/settings';
+@import './base/base';
+
+/* Components en SCSS
+-------------------------------------------------- */
+@import './components/auth';
+@import './components/buttons';
+@import './components/links';
+@import './components/journal';
+@import './components/nothing';
+@import './components/notes';
